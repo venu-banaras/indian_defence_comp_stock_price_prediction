@@ -1,4 +1,4 @@
-# Indian_defence_comp_stock_price_prediction
+# Indian defence companies stock price prediction
 End to End Flask hosted project on Stock price prediction using LSTM
 
 Namaste,
